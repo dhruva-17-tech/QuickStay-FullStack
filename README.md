@@ -87,7 +87,5 @@ This project is actively maintained. Below is the development pipeline toward th
 
 [ ] Phase 6: Refactor frontend fetch hooks to replace mock data with live database API calls.
 
-.
-
 📄 License
 This project is open-source and available under the MIT License.
