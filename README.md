@@ -48,7 +48,7 @@ QuickStay-FullStack/
     └── routes/             # Express API endpoints
 ```
 
-Local Installation & Setup
+🚀 Local Installation & Setup
 Follow these steps to clone the repository and run the working frontend interface on your local machine.
 
 Prerequisites
@@ -72,7 +72,7 @@ cd ../server
 npm install
 npm start
 
-Development Roadmap
+🗺️ Development Roadmap
 This project is actively maintained. Below is the development pipeline toward the stable v1.0.0 release:
 
 [x] Phase 1: UI/UX Design & Core React Component Architecture.
@@ -87,5 +87,7 @@ This project is actively maintained. Below is the development pipeline toward th
 
 [ ] Phase 6: Refactor frontend fetch hooks to replace mock data with live database API calls.
 
-License
+.
+
+📄 License
 This project is open-source and available under the MIT License.
